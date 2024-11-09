@@ -17,7 +17,7 @@
 
 <h2>Bước 1: Tải mã nguồn và file database</h2>
 <p>
-    Github: <a href="https://github.com/BuiiKNgann/Nhom3-PTPMMNM" target="_blank">https://github.com/BuiiKNgann/Nhom3-PTPMMNM</a>
+    Github: <a href="https://github.com/nguyenmylera/VLXD" target="_blank">https://github.com/nguyenmylera/VLXD</a>
 </p>
 
 <h2>Bước 2: Tạo và Import database</h2>
@@ -38,7 +38,7 @@
 
 <h2>Bước 4:</h2>
 <ul>
-    <li>Vào Visual Studio Code và open folder dự án "myWeb"</li>
+    <li>Vào Visual Studio Code và open folder dự án "VLXD"</li>
     <li>Tại file <code>.env.example</code> đổi tên thành <code>.env</code></li>
     <li>Cập nhật thông số như sau:</li>
 </ul>
